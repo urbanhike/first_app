@@ -1,0 +1,1 @@
+This is jake's first rails app - with a tutorial of course.
